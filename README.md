@@ -9,8 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@aadii_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aadii_2003" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aditya-chaurasia-10998622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-chaurasia-9b303827b" height="30" width="40" /></a>
+<a href="https://twitter.com/@aadii_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aadii_2003" height="30" width="40" /></a>
+  
+<a href="https://www.instagram.com/a_d_i_t_y_a_121211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharmikjethva30" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/a_d_i_t_y_a_121211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_d_i_t_y_a_121211" height="30" width="40" /></a>
 </p>
 
